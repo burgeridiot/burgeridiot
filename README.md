@@ -3,9 +3,9 @@ task.spawn(function()
   while true do task.wait()
      music.play(
 ```
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=DJ8bK55VP68" target="_blank"></a>
+https://www.youtube.com/watch?feature=player_embedded&v=DJ8bK55VP68
 ```lua
-     )
+)
   end
 end)
 for i = 0,31556952000,1 do task.wait() -- 31,556,952,000 is the amount of miliseconds a year has...
