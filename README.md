@@ -3,7 +3,8 @@ task.spawn(function()
   while true do task.wait()
      music.play(
 ```
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/track/1olipsDaIZvztPcypjsTg3)
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=DJ8bK55VP68" target="_blank"><img src="http://img.youtube.com/vi/DJ8bK55VP68/0.jpg" 
+alt="The Killing Wind" width="240" height="180" border="10" /></a>
 ```lua
      )
   end
