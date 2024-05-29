@@ -3,7 +3,7 @@ task.spawn(function()
   while true do task.wait()
      music.play(
 ```
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/intl-pt/track/1olipsDaIZvztPcypjsTg3)
+[![Spotify](https://open.spotify.com/intl-pt/track/1olipsDaIZvztPcypjsTg3)]
 ```lua
      )
   end
