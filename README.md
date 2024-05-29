@@ -1,13 +1,13 @@
 ```lua
-for i = 0,365,0.000001 do task.wait()
+for i = 0,31556952000,1 do task.wait() -- 31,556,952,000 is the amount of miliseconds a year has...
    daysPassed += 1
    if day.Type == "Weekday" then
       print("Another day, another burden.")
-   end
-end
-```
-
-```python
-elif day.Type == "Weekend":
+   elseif day.Type == "Weekend" then
 ```
 ![tenor](https://github.com/burgeridiot/burgeridiot/assets/98218309/742f1942-91d6-4cb4-a030-29d1846ba6d5)
+
+```lua
+  end
+end
+```
