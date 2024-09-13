@@ -3,11 +3,7 @@ task.spawn(function()
   while true do task.wait()
      music.play(
 ```
-<iframe width="560" height="315"
-src="https://www.youtube.com/embed/DJ8bK55VP68" 
-frameborder="0" 
-allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+https://www.youtube.com/embed/DJ8bK55VP68
 ```lua
 )
   end
